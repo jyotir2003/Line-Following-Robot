@@ -35,9 +35,3 @@ The main control logic is located in the `Arduino_code.ino` file.
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
-
-## 📝 License
-[Include your license information here]
-
----
-Made with ❤️ by [Your Name/Username]
