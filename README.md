@@ -26,18 +26,12 @@ The robot autonomously follows a line using IR sensors for detection. Gear motor
 4. Power up and place on a track
 
 ## 💻 Code
-The main control logic is located in the `main.ino` file.
+The main control logic is located in the `Arduino_code.ino` file.
 
 ## 🚀 Future Improvements
 - Enhance line following algorithms
 - Add obstacle detection capabilities
 - Optimize speed and efficiency
-
-## 📷 Project Images
-[You can add images of your robot here]
-
-## 📚 Documentation
-[Link to more detailed documentation if available]
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
